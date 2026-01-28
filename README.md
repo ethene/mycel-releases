@@ -17,6 +17,8 @@
 3. Or manually add this URL: `https://github.com/ethene/mycel-releases`
 4. Obtainium will notify you of updates and verify signatures automatically
 
+> **Connection error?** If Obtainium can't connect to GitHub, check your internet connection, try a different network (some block GitHub), or temporarily disable VPN/ad blockers. [Full troubleshooting guide](https://ethene.github.io/mycel-docs/reference/faq/#cannot-add-mycel-source-from-github-obtainium)
+
 ### Manual Download
 
 1. Go to [Releases](https://github.com/ethene/mycel-releases/releases)
